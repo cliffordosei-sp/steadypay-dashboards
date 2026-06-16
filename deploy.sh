@@ -7,7 +7,7 @@ set -e
 PROJECT_ID="steadypay-189320"
 REGION="europe-west2"
 SERVICE_NAME="steadypay-hub"
-REPO="gcr.io/${PROJECT_ID}"
+REPO="europe-west2-docker.pkg.dev/${PROJECT_ID}/steadypay"
 TAG=$(date +%Y%m%d%H%M%S)
 IMAGE="${REPO}/${SERVICE_NAME}:${TAG}"
 
