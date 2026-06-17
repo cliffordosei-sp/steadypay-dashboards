@@ -3,7 +3,7 @@ from apps import APPS
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Steadypay Hub",
+    page_title="SteadyPay Hub",
     page_icon="⚡",
     layout="wide",
     initial_sidebar_state="collapsed",
