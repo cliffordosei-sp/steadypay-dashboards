@@ -209,7 +209,7 @@ st.markdown(
     """
     <div class="hub-header">
         <div class="hub-logo">⚡</div>
-        <h1 class="hub-title">Steadypay Hub</h1>
+        <h1 class="hub-title">SteadyPay Hub</h1>
     </div>
     <p class="hub-subtitle">Internal tools & dashboards — click any card to open the app.</p>
     <div class="hub-divider"></div>
