@@ -241,7 +241,6 @@ def render_card(app: dict) -> str:
     return f"""
     <div class="{card_class}">
         <div class="card-top">
-            <span class="card-icon">{app["icon"]}</span>
             <span class="card-tag">{tag}</span>
         </div>
         <p class="card-name">{app["name"]}</p>

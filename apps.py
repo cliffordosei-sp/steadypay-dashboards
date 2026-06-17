@@ -13,8 +13,7 @@ APPS = [
     {
         "name": "CashWave Marketing Dashboard",
         "description": "Acquisition, channel performance, onboarding funnel, and risk model overview for CashWave D2C.",
-        "url": "https://cashwave-dashboard-791218390362.europe-west2.run.app/",  # ← replace
-        "icon": "📈",
+        "url": "https://cashwave-dashboard-791218390362.europe-west2.run.app/",
         "tag": "Marketing",
         "status": "live",
     },
